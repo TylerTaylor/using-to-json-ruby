@@ -198,7 +198,7 @@ $(function () {
 ```
 
 Instead of doing a `$.get()` to `/posts/id/post_data`, we are now
-getting `/posts/id.json`. If we reload the page and click out `Next`
+getting `/posts/id.json`. If we reload the page and click our `Next`
 button, everything still works and we don't have to change any of the
 code to extract the JSON values!
 
@@ -214,3 +214,5 @@ and worrying about what you'll have to do when you're serializing a
 *big* object model? Don't worry. We'll get there.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/using-to-json-ruby'>Using to_json</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/using-to-json-ruby'>Using to_json</a> on Learn.co and start learning to code for free.</p>
